@@ -1,0 +1,10 @@
+Batch Wi-Fi Brute Forcer Result
+Target     : Galaxy M34 5G2AA4
+At attempt : 40
+Password   : abcdefgh
+
+Batch Wi-Fi Brute Forcer Result
+Target     : Galaxy M34 5G2AA4
+At attempt : 40
+Password   : abcdefgh
+
